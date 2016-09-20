@@ -1,0 +1,12 @@
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\bin\Debug\DB2_Mid-term.exe.config
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\bin\Debug\DB2_Mid-term.exe
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\bin\Debug\DB2_Mid-term.pdb
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid-term.csprojResolveAssemblyReference.cache
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid_term.Form1.resources
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid_term.Properties.Resources.resources
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid-term.csproj.GenerateResource.Cache
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid-term.exe
+c:\users\abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid-term.pdb
+C:\Users\Abdullah\documents\visual studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid_term.Listofbooks.resources
+C:\Users\Abdullah\Documents\Visual Studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid_term.Allbooks.resources
+C:\Users\Abdullah\Documents\Visual Studio 2012\Projects\DB2_Mid-term\DB2_Mid-term\obj\Debug\DB2_Mid_term.ADDB.resources

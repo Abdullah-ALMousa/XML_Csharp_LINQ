@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<library>
+  <book ISBN="SWE1" authors="A1">
+    <title>Leraing XML</title>
+    <year>4/7/2016 9:06:08 PM</year>
+    <publisher>W3C</publisher>
+  </book>
+  <book ISBN="SWE2" authors="A1">
+    <title>Operating research</title>
+    <year>4/7/2016 9:08:08 PM</year>
+    <publisher>Oxford</publisher>
+  </book>
+  <book ISBN="SWE3" authors="A2">
+    <title>IT</title>
+    <year>4/7/2016 9:09:08 PM</year>
+    <publisher>YPU</publisher>
+  </book>
+  <book ISBN="SWE4" authors="A2">
+    <title>PS</title>
+    <year>4/7/2016 9:10:08 PM</year>
+    <publisher>YPU</publisher>
+  </book>
+  <author id="A1">
+    <firstName>Alexander</firstName>
+    <middleName>Mccall</middleName>
+    <lastName>Smith</lastName>
+    <nationality>British</nationality>
+  </author>
+  <author id="A2">
+    <firstName>Antoine</firstName>
+    <middleName>De</middleName>
+    <lastName>Saint-Exupéry</lastName>
+    <nationality>French</nationality>
+  </author>
+</library>
